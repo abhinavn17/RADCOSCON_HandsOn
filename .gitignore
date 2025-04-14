@@ -1,0 +1,8 @@
+*.dat
+*.o
+*.png
+inference/script.py
+output/*.bin
+output/plot.ipynb
+READINGFILES/*
+*.ipynb_checkpoints
